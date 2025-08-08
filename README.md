@@ -35,8 +35,6 @@ Map names should just be something that makes it easy to understand and that is 
 
 # Credits
 
-Beware that most of these maps have been published by different people. The full list this was taken from is in the credits.
-
 Names are in alphabetical order as many maps have been made by different people adding on top of other people, and keeping track of everything is a nightmare. Thank all these people for the work they put in these maps.
 
 - ARCHI
