@@ -3,6 +3,24 @@
 
 This is a repository which aims to keep an updated list of all public maps. There may exist maps which are not public yet. 
 
+## How to download/use
+
+#### Method 1: Download .zip file.
+
+1. In the main Github page hit the green `<> Code` button
+2. Press `Download ZIP`.
+3. Extract wherever you wish to save the files.
+
+#### Method 2: Download Git Repository
+
+1. Download Git from https://git-scm.com/downloads
+2. Open the file you downloaded
+3. Click next until you see `Install` and click it.
+4. Open a cmd in the folder you wish to have the project in.
+5. Type `git clone https://github.com/Tgb03/gtfo-speedrun-maps.git`
+
+Now you can automatically update it the command `git pull`. In order to contribute it's a little more complicated as you have to make fork on Github, push your local changes to that fork and then make a pull request from the fork into the main repository.
+
 ## Contributing
 
 If you wish to contribute either make a pull request to this repository or direct message `tgb03` on discord and I will add the maps you send. Also feel free to update maps you find to not be easily legible or old in any way.
