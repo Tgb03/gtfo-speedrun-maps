@@ -11,6 +11,8 @@ This is a repository which aims to keep an updated list of all public maps. Ther
 2. Press `Download ZIP`.
 3. Extract wherever you wish to save the files.
 
+Using this method you need to redownload the zip or new files manually to update.
+
 #### Method 2: Download Git Repository
 
 1. Download Git from https://git-scm.com/downloads
