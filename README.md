@@ -19,7 +19,7 @@ Using this method you need to redownload the zip or new files manually to update
 2. Open the file you downloaded
 3. Click next until you see `Install` and click it.
 4. Open a cmd in the folder you wish to have the project in.
-5. Type `git clone https://github.com/Tgb03/gtfo-speedrun-maps.git`
+5. Type `git clone https://github.com/Tgb03/gtfo-speedrun-maps.git` and hit enter.
 
 Now you can automatically update it the command `git pull`. In order to contribute it's a little more complicated as you have to make fork on Github, push your local changes to that fork and then make a pull request from the fork into the main repository.
 
